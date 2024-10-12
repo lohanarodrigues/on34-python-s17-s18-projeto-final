@@ -48,6 +48,10 @@ Utilizamos o **Tableau** para criar visualizações interativas e dinâmicas a p
 
 👉https://public.tableau.com/app/profile/lohana.rodrigues.pereira/viz/dadosviolnciamulheres2023/ViolnciaRecorrenteOutrasVezesxIdade
 
+## 📊 **Apresentação final dos Dados - slide**
+
+👉 https://www.canva.com/design/DAGStDwbnfA/w3tmxQLPC0NrQBTMlJ-fWg/edit
+
 ## 💡 **Instituição**
 
 Este projeto foi desenvolvido em colaboração com a **<span style="color:pink">Reprograma</span>**.
