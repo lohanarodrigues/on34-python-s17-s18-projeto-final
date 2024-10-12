@@ -34,7 +34,8 @@ Envie um Pull Request.
 📊 Visualizações de Dados com Tableau
 Utilizamos o Tableau para criar visualizações interativas e dinâmicas a partir dos dados analisados no projeto.
 
-👉 https://public.tableau.com/app/profile/lohana.rodrigues.pereira/viz/dadosviolnciamulheres2023/ViolnciaRecorrenteOutrasVezesxIdade
+👉https://public.tableau.com/app/profile/lohana.rodrigues.pereira/viz/dadosviolnciamulheres2023/ViolnciaRecorrenteOutrasVezesxIdade
+
 
 💡 Instituição
 Este projeto foi desenvolvido em colaboração com a Reprograma.
